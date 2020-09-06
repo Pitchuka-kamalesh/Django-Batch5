@@ -119,5 +119,22 @@ ______
   - Edit
   - Delete
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/0dacb92750d6f96d4be5236f604500c19ae013e7f9ca5bcc0d152742aa4fc93c)
+_____
+
+### Day 12(05-09-20)
+#### Concepts:
+- 
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/79a1dbacbf4d4b133d800bc0dad373825e87373cf036e715545b86261ac724f4)
+_____
+## New Meeting I'd for Monday Class
+- Srinivas Reddy's Meeting
+
+- Please join my meeting from your computer, tablet or smartphone.
+- https://www.gotomeet.me/172p1a0587cbit
 
 
+## Access Code: 709-510-005
+
+
+- New to GoToMeeting? Get the app now and be ready when your first meeting starts: 
+## https://global.gotomeeting.com/install/709510005
