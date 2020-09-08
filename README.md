@@ -77,7 +77,7 @@ ____
 - Data Rendering from templates to views
 - Template Inheritance
 
-#### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/5446ed4ab799893f6e55f761b5ff9cf8921ffdde5216794b9a5b2a7be5c5e0e7)
+
 ______
 
 ### Day 8(01-09-20)
@@ -97,7 +97,6 @@ ______
   - localhost:8000/admin (or) 127.0.0.1:8000/admin
   - python manage.py createsuperuser
 
-### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/b0270590c7cb0a78ec5a25df106c7a376433d9f0572a07533ed8b06879810b5f)
 ____
 
 ### Day 9(02-09-20)
@@ -113,3 +112,40 @@ ____
 - Template Inheritance
 - Template Blocks
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/921a2358e0dbedbd7aaf1db83d94fba95f2b2eab6001ab6a5fb01599dffc61a7)
+______
+### Day 11(04-09-20)
+#### Concepts:
+- CRUD Operations Continuation...
+  - Edit
+  - Delete
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/0dacb92750d6f96d4be5236f604500c19ae013e7f9ca5bcc0d152742aa4fc93c)
+_____
+
+### Day 12(05-09-20)
+#### Concepts:
+- Model Forms
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/79a1dbacbf4d4b133d800bc0dad373825e87373cf036e715545b86261ac724f4)
+_____
+## New Meeting I'd for Monday Class
+- Srinivas Reddy's Meeting
+
+- Please join my meeting from your computer, tablet or smartphone.
+- https://www.gotomeet.me/172p1a0587cbit
+
+
+## Access Code: 709-510-005
+
+
+- New to GoToMeeting? Get the app now and be ready when your first meeting starts: 
+## https://global.gotomeeting.com/install/709510005
+
+_____
+### Day 13(07-09-20)
+#### Concepts
+- Forms in Django
+- Messages
+- Mysql Connection
+- Image Uploading
+
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/429d9014ab9e17b81f29285d8849255aa9d1cbc4942aa4d222c6e5806f287079)
+#### Video Link2 [Click Here](https://transcripts.gotomeeting.com/#/s/9fba55b5bb2213558f49b44a664e7023ca8bd79361e6cbbd58f577bcf11a75e3)
